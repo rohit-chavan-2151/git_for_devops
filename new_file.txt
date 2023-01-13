@@ -4,3 +4,5 @@ This is a new development file for testing
 Now understand rebase. First change to commit
 
 Ready to rebase branches. Next change..
+
+Just to test merge again. change file now.
