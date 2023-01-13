@@ -5,4 +5,5 @@ Successfully pushed changes to remote
 
 Changed user name and user email
 
-Need to learn cherry-pik to go to a certain commit
+Need to learn cherry-pick to go to a certain commit
+You can go back to a specific commit and that state using this command
