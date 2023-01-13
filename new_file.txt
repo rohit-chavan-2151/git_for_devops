@@ -1,1 +1,4 @@
+
 This is a new development file for testing
+
+Now understand rebase. First change to commit.
